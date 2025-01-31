@@ -14,7 +14,7 @@ A simple clone of the Workable website using HTML and CSS.
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/workable-clone.git
+   git clone https://github.com/CodeByOS/Workable_Clone_Website.git
    ```
 2. Open the `index.html` file in your browser.
 
